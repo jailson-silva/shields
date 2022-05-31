@@ -1,0 +1,10 @@
+---
+type:
+  sast:
+    vulnerabilidades:
+      Críticas: 3
+      Altas: 18
+  sca:
+    vulnerabilidades:
+      Críticas: 808
+      Altas: 3435
