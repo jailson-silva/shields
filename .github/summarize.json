@@ -2,7 +2,7 @@
     "type": {
         "sast": {
             "vulnerabilidades": {
-                "Criticas": 3,
+                "Criticas": 10,
                 "Altas": 18
             }
         },
