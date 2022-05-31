@@ -1,0 +1,16 @@
+{
+    "type": {
+        "sast": {
+            "vulnerabilidades": {
+                "Criticas": 3,
+                "Altas": 18
+            }
+        },
+        "sca": {
+            "vulnerabilidades": {
+                "Criticas": 808,
+                "Altas": 3435
+            }
+        }
+    }
+}
